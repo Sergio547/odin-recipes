@@ -1,0 +1,40 @@
+*{
+    background-color: #29273f;
+    color: #babfe7;
+    font-family:'Courier New', Courier, monospace;
+    
+}
+
+.barra{
+    text-align: center;
+}
+
+.titleOR{
+    text-align: left;
+    margin-left: 20px;
+    display: inline;
+    font-size: 100px;
+    font-weight: 100;
+}
+
+ul{
+    display: block;
+    list-style: none;
+}
+li{
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+ul a{
+    display: inline-block;
+    text-decoration: none;
+    background-color: #534c87;
+    padding: 8px 20px;
+    width: 200px;
+    text-align: center;
+    border-radius: 40px;
+}
+ul a:hover{
+    color: #534c87;
+    background-color: #babfe7;
+}
